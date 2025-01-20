@@ -22,4 +22,4 @@ social: false # includes social icons at the bottom of the page
 
 I am the Executive Director of Research at the [National Institute of Teaching](https://niot.org.uk/).
 
-More about me [here](https://calumdavey.github.io/about_einstein/), published writing [here](https://calumdavey.github.io/publications/) and other writing [here](https://calumdavey.github.io/blog/). 
+Published writing [here](https://calumdavey.github.io/publications/) and other writing [here](https://calumdavey.github.io/blog/). 
