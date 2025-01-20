@@ -21,24 +21,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: MSc
-      institution: London School of Hygiene and Tropical Medicine, London, UK
-      year: 2011
-      description:
-        - Description 1.
-        - Description 2.
-    - title: MUSA
-      institution: University of Philadelphia, Philadelphia, USA
-      year: 2009
-      description:
-        - Description 1.
-        - Description 2.
-    - title: BA
-      institution: University of Cambridge, Cambridge, UK
-      year: 2008
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
